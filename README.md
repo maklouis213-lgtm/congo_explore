@@ -1,33 +1,36 @@
 Congo Explore 🇨🇩
-Découvrez la République Démocratique du Congo autrement
 
-Congo Explore est une application mobile développée avec Flutter visant à promouvoir le tourisme en République Démocratique du Congo grâce à une expérience numérique moderne et immersive.
+Découvrez les merveilles touristiques de la République Démocratique du Congo grâce à une expérience numérique moderne et immersive.
 
-L'application permet aux utilisateurs de découvrir des destinations touristiques, effectuer des visites virtuelles et réaliser des paiements en ligne directement depuis leur smartphone.
+🌍 À propos du projet
 
-✨ Fonctionnalités
-🏠 Page d'accueil
+Congo Explore est une application mobile développée avec Flutter qui vise à promouvoir le tourisme en République Démocratique du Congo.
+
+L'application permet aux utilisateurs de découvrir les destinations touristiques, effectuer des visites virtuelles immersives et réaliser des paiements en ligne de manière simple et sécurisée.
+
+✨ Fonctionnalités principales
+🏠 Accueil
 Interface moderne et intuitive.
 Présentation des destinations touristiques.
-Navigation simple et fluide.
+Navigation fluide et rapide.
 🌍 Visite virtuelle
-Découverte immersive des sites touristiques.
-Exploration des lieux avant une visite physique.
+Découverte immersive des lieux touristiques.
+Exploration des destinations avant une visite réelle.
 💳 Paiement en ligne
-Paiement sécurisé des services proposés.
+Paiement sécurisé.
 Expérience utilisateur simplifiée.
 📸 Captures d'écran
-Accueil
+🏠 Accueil
 
 
 
 
-Visite virtuelle
+🌍 Visite virtuelle
 
 
 
 
-Paiement en ligne
+💳 Paiement en ligne
 
 
 
@@ -35,25 +38,34 @@ Paiement en ligne
 🛠 Technologies utilisées
 Flutter
 Dart
-Android Studio
 Git
 GitHub
-🎯 Objectif du projet
+Android Studio
+🎯 Objectif
 
-Mettre en valeur les richesses touristiques de la République Démocratique du Congo à travers une plateforme numérique moderne, accessible et attractive pour les visiteurs locaux et internationaux.
+Mettre en valeur les richesses touristiques de la République Démocratique du Congo à travers une plateforme numérique moderne accessible aux visiteurs locaux et internationaux.
 
-🚧 État du projet
-
-Projet actuellement en cours de développement et d'amélioration continue.
-
-👨‍💻 Auteur
+🚀 Installation
+git clone https://github.com/maklouis213-lgtm/congo_explore.git
+cd congo_explore
+flutter pub get
+flutter run
+📂 Structure du projet
+lib/
+assets/
+assets/screenshots/
+android/
+ios/
+web/
+👨‍💻 Développeur
 
 Louis Mak
 
-Développeur Flutter passionné par les solutions numériques innovantes pour l'Afrique.
+Développeur Flutter passionné par la création de solutions numériques innovantes pour l'Afrique.
 
-GitHub : https://github.com/maklouis213-lgtm
+GitHub :
+https://github.com/maklouis213-lgtm
 
 ⭐ Soutenir le projet
 
-Si ce projet vous plaît, n'hésitez pas à laisser une étoile (Star) sur le dépôt GitHub.
+Si ce projet vous plaît, n'hésitez pas à lui attribuer une étoile (Star) sur GitHub.
