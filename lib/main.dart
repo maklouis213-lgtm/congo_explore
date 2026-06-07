@@ -218,6 +218,10 @@ class ReservationScreen extends StatelessWidget {
             ),
 
             PaymentCard(title: "M-Pesa", image: "assets/images/mpesa.png"),
+            PaymentCard(
+              title: "Airtel Money",
+              image: "assets/images/western_union.png",
+            ),
           ],
         ),
       ),

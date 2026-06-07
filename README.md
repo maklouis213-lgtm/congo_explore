@@ -1,16 +1,59 @@
-# congo_explore
+Congo Explore 🇨🇩
+Découvrez la République Démocratique du Congo autrement
 
-A new Flutter project.
+Congo Explore est une application mobile développée avec Flutter visant à promouvoir le tourisme en République Démocratique du Congo grâce à une expérience numérique moderne et immersive.
 
-## Getting Started
+L'application permet aux utilisateurs de découvrir des destinations touristiques, effectuer des visites virtuelles et réaliser des paiements en ligne directement depuis leur smartphone.
 
-This project is a starting point for a Flutter application.
+✨ Fonctionnalités
+🏠 Page d'accueil
+Interface moderne et intuitive.
+Présentation des destinations touristiques.
+Navigation simple et fluide.
+🌍 Visite virtuelle
+Découverte immersive des sites touristiques.
+Exploration des lieux avant une visite physique.
+💳 Paiement en ligne
+Paiement sécurisé des services proposés.
+Expérience utilisateur simplifiée.
+📸 Captures d'écran
+Accueil
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Visite virtuelle
+
+
+
+
+Paiement en ligne
+
+
+
+
+🛠 Technologies utilisées
+Flutter
+Dart
+Android Studio
+Git
+GitHub
+🎯 Objectif du projet
+
+Mettre en valeur les richesses touristiques de la République Démocratique du Congo à travers une plateforme numérique moderne, accessible et attractive pour les visiteurs locaux et internationaux.
+
+🚧 État du projet
+
+Projet actuellement en cours de développement et d'amélioration continue.
+
+👨‍💻 Auteur
+
+Louis Mak
+
+Développeur Flutter passionné par les solutions numériques innovantes pour l'Afrique.
+
+GitHub : https://github.com/maklouis213-lgtm
+
+⭐ Soutenir le projet
+
+Si ce projet vous plaît, n'hésitez pas à laisser une étoile (Star) sur le dépôt GitHub.
